@@ -1,0 +1,71 @@
+h1 { text-align:center;
+    font-size: large 75%
+    font-family: serif Times;
+
+}
+
+h4 {font-size: large 25%;
+}
+
+.pink{
+    width: 85px;
+    height: 15px;
+    background-position: right;
+    background-color: pink;
+    padding:  5px;
+    position: absolute;
+    left:0px
+    top: 10px;
+    right:0px;
+    text-align: center;
+    border: 3px solid black;
+    margin-top: 0;
+
+}
+
+.Orange{ 
+    width: 85px;
+    height: 15px;
+    background-position: right;
+    background-color: tomato;
+    position: absolute;
+    left:0px
+    top: 10px;
+    right:0px;
+    padding: 5px;
+    text-align: center;
+    border: 3px solid black;
+    margin-top: 0;
+}
+
+.lemon{
+    width: 85px;
+    height: 15px;
+    background-position: right;
+    background-color: lemonchiffon;
+    position: absolute;
+    left:0px
+    top: 10px;
+    right:0px;
+    padding: 5px;
+    text-align: center;
+    border: 3px solid black;
+    margin-top: 0;
+}
+#container {
+    background-color: gray;
+    padding: 0px;
+    margin-bottom: 10px;
+    border:3px solid black;
+    box-sizing: border-box;
+    width: 500px;
+    height:150px;
+    position: relative;
+}
+
+.content {
+    text-align:justify;
+    padding: 15px;
+    margin-top: 50px;
+
+}
